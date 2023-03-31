@@ -2,4 +2,4 @@
 
 1. Open MongoDB Compass, set the connection to localhost:27017/assessment_chat_app
 2. Open /client Directory and type npm install.
-3. Open /server directory and type npm install npm install in both directories
+3. Open /server directory and type npm install
